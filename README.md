@@ -2,9 +2,12 @@
 
 *Subscribe to Blazer!!!*
 https://youtube.com/c/blazerhm
+Credit to Blazer and 3kh0 assets
 
 ## Deployment
 Here are some other deployment options to deploy the site on your own.
+
+
 
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/beforeblazergithub/BlazerGames)
 <br>
