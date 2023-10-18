@@ -1,7 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap');
 
 body {
-    background-color: #1b1b1b;
+    background-color: background: hsla(247, 23%, 40%, 1);
+
+      background: linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(293, 7%, 43%, 1) 0%, hsla(234, 28%, 22%, 1) 0%, hsla(0, 0%, 0%, 1) 72%);
+
+      background: -moz-linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(293, 7%, 43%, 1) 0%, hsla(234, 28%, 22%, 1) 0%, hsla(0, 0%, 0%, 1) 72%);
+
+      background: -webkit-linear-gradient(90deg, hsla(247, 23%, 40%, 1) 0%, hsla(293, 7%, 43%, 1) 0%, hsla(234, 28%, 22%, 1) 0%, hsla(0, 0%, 0%, 1) 72%);
+
+      filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#544F7D", endColorstr="#736575", GradientType=1 );;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -10,7 +18,7 @@ nav {
     top: 0;
     left: 0;
     backdrop-filter: blur(10px) saturate(200%) brightness(70%);
-    color: #ff0000;
+    color: #ffffff;
     text-align: center;
     display: flex;
     height: 7vw;
